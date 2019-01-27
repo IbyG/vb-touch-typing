@@ -1,0 +1,64 @@
+C:\Users\IGEorge\Desktop\touch typing\touch typing\bin\Debug\touch typing.exe.config
+C:\Users\IGEorge\Desktop\touch typing\touch typing\bin\Debug\touch typing.exe
+C:\Users\IGEorge\Desktop\touch typing\touch typing\bin\Debug\touch typing.pdb
+C:\Users\IGEorge\Desktop\touch typing\touch typing\bin\Debug\touch typing.xml
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch_typing.Form1.resources
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.Cache
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch typing.exe
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch typing.xml
+C:\Users\IGEorge\Desktop\touch typing\touch typing\obj\Debug\touch typing.pdb
+E:\software\touch typing\touch typing\bin\Debug\touch typing.exe.config
+E:\software\touch typing\touch typing\obj\Debug\touch typing.exe
+E:\software\touch typing\touch typing\obj\Debug\touch typing.xml
+E:\software\touch typing\touch typing\obj\Debug\touch typing.pdb
+E:\software\touch typing\touch typing\bin\Debug\touch typing.exe
+E:\software\touch typing\touch typing\bin\Debug\touch typing.pdb
+E:\software\touch typing\touch typing\bin\Debug\touch typing.xml
+E:\software\touch typing\touch typing\obj\Debug\touch_typing.form1.resources
+E:\software\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+E:\software\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.Cache
+D:\software\touch typing\touch typing\bin\Debug\touch typing.exe.config
+D:\software\touch typing\touch typing\obj\Debug\touch typing.exe
+D:\software\touch typing\touch typing\obj\Debug\touch typing.xml
+D:\software\touch typing\touch typing\obj\Debug\touch typing.pdb
+D:\software\touch typing\touch typing\bin\Debug\touch typing.exe
+D:\software\touch typing\touch typing\bin\Debug\touch typing.pdb
+D:\software\touch typing\touch typing\bin\Debug\touch typing.xml
+D:\software\touch typing\touch typing\obj\Debug\touch_typing.form1.resources
+D:\software\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+D:\software\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.Cache
+E:\software\touch typing\touch typing\obj\Debug\touch_typing.details.resources
+D:\software\touch typing\touch typing\obj\Debug\touch_typing.details.resources
+C:\Users\ibi\Desktop\touch typing\touch typing\bin\Debug\touch typing.exe.config
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch typing.exe
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch typing.xml
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch typing.pdb
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch_typing.details.resources
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch_typing.form1.resources
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+C:\Users\ibi\Desktop\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.Cache
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\bin\Debug\touch typing.exe.config
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch typing.exe
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch typing.xml
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch typing.pdb
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch_typing.details.resources
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch_typing.form1.resources
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.Cache
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\bin\Debug\touch typing.exe
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\bin\Debug\touch typing.pdb
+C:\Users\ibi\Desktop\visual share\touch typing\touch typing\bin\Debug\touch typing.xml
+E:\visual share\touch typing\touch typing\bin\Debug\touch typing.exe.config
+E:\visual share\touch typing\touch typing\bin\Debug\touch typing.exe
+E:\visual share\touch typing\touch typing\bin\Debug\touch typing.pdb
+E:\visual share\touch typing\touch typing\bin\Debug\touch typing.xml
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.vbprojAssemblyReference.cache
+E:\visual share\touch typing\touch typing\obj\Debug\touch_typing.details.resources
+E:\visual share\touch typing\touch typing\obj\Debug\touch_typing.form1.resources
+E:\visual share\touch typing\touch typing\obj\Debug\touch_typing.Resources.resources
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.vbproj.GenerateResource.cache
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.vbproj.CoreCompileInputs.cache
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.exe
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.xml
+E:\visual share\touch typing\touch typing\obj\Debug\touch typing.pdb
